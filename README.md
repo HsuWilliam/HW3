@@ -1,7 +1,5 @@
 # HW3
 
-NCKU-IIM
-
 Master class: Mobile Networking and Applications
 
 Android Studio using kotlin language
